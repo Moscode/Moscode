@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on contributing more on OSS and also building pairprogramming platform
-- 🌱 I’m currently learning TypeScript, ReactJS, NodeJs, Python, DSA
+- 🔭 I’m currently working on contributing to OSS and also building a pairprogramming platform.
+- 🌱 I’m currently learning TypeScript, ReactJS, NodeJs, Python, DSA.
 - 👯 I’m looking to collaborate on OSS and DSA
 - 🤔 I’m looking for help with writing consistently
 - 💬 Ask me about ReactJS and DSA
