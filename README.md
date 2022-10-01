@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**Moscode/Moscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Moscode/Moscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on contributing more on OSS and also building pairprogramming platform
 - 🌱 I’m currently learning TypeScript, ReactJS, NodeJs, Python, DSA
