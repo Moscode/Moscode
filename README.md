@@ -5,13 +5,12 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on contributing to OSS and also building a pairprogramming platform.
-- 🌱 I’m currently learning TypeScript, ReactJS, NodeJs, Python, DSA.
-- 👯 I’m looking to collaborate on OSS and DSA
-- 🤔 I’m looking for help with writing consistently
-- 💬 Ask me about ReactJS and DSA
+- 🔭 I'm a software developer with focus on frontend engineering using ReactJS, Context API, Redux, and Typescript.
+- 🌱 I’m currently learning the core of NodeJS, communcation protocols, and I practice DSA.
+- 👯 I’m looking to collaborate on interesting Software.
+- 💬 Ask me about Frontend Engineering and DSA.
 - 📫 How to reach me: Twitter: @Moscode_Sceptre, Linkedin: Odunosho Moses
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I don't like any sport that makes me physically stress myself, so board game it is.
+- ⚡ Fun fact: I can recite some of the classic poems (or the ones I considered to be classsic).
 
 [![@moscode's Holopin board](https://holopin.io/api/user/board?user=moscode)](https://holopin.io/@moscode)
