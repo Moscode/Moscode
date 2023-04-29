@@ -17,4 +17,4 @@ Here are some ideas to get you started:-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moscode&layout=compact&theme=light&hide_border=false" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=moscode&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Moscode's github stats" />
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moscode&" alt="Moscode" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moscode&" alt="Moscode" />
