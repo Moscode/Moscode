@@ -13,8 +13,6 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I can recite some of the most classic poems ever written (or the ones I considered to be classic).
 
-[![@moscode's Holopin board](https://holopin.io/api/user/board?user=moscode)](https://holopin.io/@moscode)
-
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moscode&" alt="Moscode" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moscode&layout=compact&theme=light&hide_border=false" />
