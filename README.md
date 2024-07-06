@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 My name is Odunosho Moses Adewale and I am a full-stack software engineer with over two years of experience in software development using technologies such as ReactJS, Context API, Redux, and Typescript, NodeJS, ExpressJS, Bun, Hono, PostgreSQL, and MongoDB.
+- 🔭 My name is Odunosho Moses Adewale and I am a full-stack software engineer with over two years of experience in software development
+      using technologies such as ReactJS, Context API, Redux, and Typescript, NodeJS, ExpressJS, Bun, Hono, PostgreSQL, and MongoDB.
 - 🌱 I’m currently improving my Data Structures and Algorithms knowledge.
 - 👯 I’m looking to contribute to open source software.
 - 💬 Ask me about Software Engineering and DSA.
