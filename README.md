@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I'm a software developer with focus on frontend engineering using ReactJS, Context API, Redux, and Typescript.
-- 🌱 I’m currently learning the core of NodeJS, communcation protocols, and DSA.
-- 👯 I’m looking to collaborate on interesting Software.
-- 💬 Ask me about Frontend Engineering and DSA.
-- 📫 How to reach me: Twitter: @Moscode_Sceptre, Linkedin: Odunosho Moses
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: I can recite some of the most classic poems ever written (or the ones I considered to be classic).
+🔭 My name is Odunosho Moses Adewale and I am a full-stack software engineer with over two years of experience in software development using technologies such as ReactJS, Context API, Redux, and Typescript, NodeJS, ExpressJS, Bun, Hono, PostgreSQL, and MongoDB.
+🌱 I’m improving my Data Structures and Algorithms knowledge.
+👯 I’m looking to contribute to open source software.
+💬 Ask me about Software Engineering and DSA.
+📫 How to reach me: Twitter: @Moscode_Sceptre, Linkedin: Odunosho Moses
+😄 Pronouns: He/his
+⚡ Fun fact: I can recite some of the most classic poems ever written (or the ones I considered to be classic).
 
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moscode&layout=compact&theme=light&hide_border=false" />
